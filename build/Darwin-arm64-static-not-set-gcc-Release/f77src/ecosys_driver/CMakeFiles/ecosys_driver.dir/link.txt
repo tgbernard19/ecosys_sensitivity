@@ -1,0 +1,2 @@
+/usr/bin/ar qc libecosys_driver.a CMakeFiles/ecosys_driver.dir/soil.f.o CMakeFiles/ecosys_driver.dir/main.f.o
+/usr/bin/ranlib libecosys_driver.a
