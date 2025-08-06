@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/tgbernard19/ecosys/build/Darwin-arm64-static-not-set-gcc-Release/cmake_install.cmake",
+		"/Users/tgbernard19/ecosys/build/Darwin-arm64-static-not-set-gcc-Release/f77src/cmake_install.cmake",
+		"/Users/tgbernard19/ecosys/build/Darwin-arm64-static-not-set-gcc-Release/f77src/ecosys_core/cmake_install.cmake",
+		"/Users/tgbernard19/ecosys/build/Darwin-arm64-static-not-set-gcc-Release/f77src/ecosys_driver/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

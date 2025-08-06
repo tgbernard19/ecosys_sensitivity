@@ -1,5 +1,5 @@
 # Minimum CMake version, determined by hdf5.
-cmake_minimum_required (VERSION 3.1)
+cmake_minimum_required (VERSION 3.10)
 
 # Version numbers.
 set (ECOSYS_MAJOR_VERSION 0)

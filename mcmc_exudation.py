@@ -54,7 +54,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="MCMC sensitivity for root exudation")
     parser.add_argument("--runscript", default="examples/sample_run/runscript_test",
                         help="Path to ECOSYS runscript")
-    parser.add_argument("--executable", default="./ecosys.x",
+    parser.add_argument("--executable", default="/Users/tgbernard19/ecosys/local/bin/ecosys.x",
                         help="Path to ECOSYS executable")
     parser.add_argument("--n-iter", type=int, default=3,
                         help="Number of MCMC iterations")
